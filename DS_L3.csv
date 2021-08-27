@@ -1,26 +1,26 @@
 ID,employeeName,phoneNo,email,Age,Gender,hasChronic,rank,ExperienceYear,Department,Salary,monthlyCommission(%),salaryCurrency
 8436,Eunice Bownd,(257) 2854590,ebownd0@nymag.com,38,F,No,8,36,Product Management,2179.81,0.37,JOD
-8163,Salvidor Bourdice,(640) 5104618,sbourdice1@who.int,54,Female,,8,10,Research and Development,614.87,1.91,JOD
+8163,Salvidor Bourdice,(640) 5104618,sbourdice1@who.int,54,Female,,8,10,t,614.87,1.91,JOD
 9993,Emylee Samways,(634) 1432842,esamways2@cbslocal.com,24,M,,8,12,Research and Development,1187.16,0.49,USD
 8245,Leif Twinbourne,(731) 2183311,ltwinbourne3@unc.edu,26,M,,7,6,Accounting,2269.18,0.94,USD
 8814,Ossie Olivetti,(421) 6396582,oolivetti4@ow.ly,39,M,,3,18,Business Development,1083.84,0.92,USD
 8514,Letitia Kershaw,(229) 5461205,lkershaw5@youku.com,50,female,Yes,1,36,Training,1863.35,0.15,JOD
 8925,Birdie Baroche,(593) 1487005,bbaroche6@people.com.cn,28,M,,8,17,Services,593.65,0.27,USD
 9192,Murial Simonot,(361) 1845525,msimonot7@constantcontact.com,36,male,,1,22,Product Management,954.76,1.12,USD
-7632,Alisun Beards,(803) 6610802,abeards8@washingtonpost.com,55,Female,,8,33,Engineering,9000,0.08,USD
+7632,Alisun Beards,(803) 6610802,abeards8@washingtonpost.com,55,Female,,8,33,,9000,0.08,USD
 8681,Letty Fenby,(803) 5190588,lfenby9@wix.com,27,M,,10,21,Training,1227.9,1.32,USD
 9981,Blake Stave,(661) 9603862,bstavea@cbsnews.com,35,male,,4,12,Product Management,1464.01,1.04,JOD
-8775,Claudian Bartolomeazzi,(625) 8623358,cbartolomeazzib@yolasite.com,36,male,,3,36,Research and Development,911.69,1.72,USD
+8775,Claudian Bartolomeazzi,(625) 8623358,cbartolomeazzib@yolasite.com,36,male,,3,36,,911.69,1.72,USD
 8674,Helsa Willerson,(214) 2854496,hwillersonc@foxnews.com,49,female,,10,2,Legal,1953.49,1.81,JOD
 7959,Lesley Garthside,(722) 2148820,lgarthsided@trellian.com,52,F,,0,37,Business Development,1640.09,0.91,JOD
 8572,Carolyn Rustan,(393) 4462051,crustane@cpanel.net,48,female,No,5,29,Business Development,1515.63,1.12,USD
 8923,Arthur Hanney,(980) 1523291,ahanneyf@gnu.org,36,F,,9,1,Marketing,1542.14,1.08,JOD
 9310,Cindy Mapletoft,(611) 2182399,cmapletoftg@fotki.com,41,F,,4,24,Services,1661.66,1.39,JOD
-9397,Renelle Pughsley,(241) 6164523,rpughsleyh@wp.com,27,female,No,9,26,Support,2253.74,0.47,USD
+9397,Renelle Pughsley,(241) 6164523,rpughsleyh@wp.com,27,female,No,9,26,,2253.74,0.47,USD
 8758,Sterling Groome,(576) 5776915,sgroomei@digg.com,23,Female,,8,13,Business Development,1378.1,0.46,USD
 9514,Natty Rhule,(263) 6807455,nrhulej@cloudflare.com,22,female,,4,10,Sales,,1.72,JOD
-9645,Gussie Boles,(816) 7585155,gbolesk@liveinternet.ru,25,female,,8,38,Engineering,2179.73,1.69,USD
-8219,Juieta Hattam,(873) 4332336,jhattaml@stanford.edu,22,M,,1,1,Business Development,2108.29,1.15,USD
+9645,Gussie Boles,(816) 7585155,gbolesk@liveinternet.ru,25,female,,8,38,,2179.73,1.69,USD
+8219,Juieta Hattam,(873) 4332336,jhattaml@stanford.edu,22,M,,1,1,Business ,2108.29,1.15,USD
 8364,Linette Woolerton,(265) 9785340,lwoolertonm@tmall.com,41,female,Yes,9,34,Services,2186.71,0.98,USD
 8089,Tedda Beattie,(567) 5505405,tbeattien@shareasale.com,28,F,,9,14,Training,517.06,0.31,USD
 8188,Wyatt Detloff,(451) 8897022,wdetloffo@reuters.com,40,F,,3,1,Training,1713.9,1.72,USD
@@ -30,7 +30,7 @@ ID,employeeName,phoneNo,email,Age,Gender,hasChronic,rank,ExperienceYear,Departme
 7602,Elga Earpe,(560) 2927207,eearpes@vinaora.com,34,Female,,8,34,Marketing,1758.37,1.21,USD
 8095,Mattie Nerval,(204) 2615568,mnervalt@economist.com,54,F,,6,27,Support,2126.03,1.32,USD
 7879,Lena Gillow,(147) 4315368,lgillowu@free.fr,49,Female,,1,40,Marketing,689.19,1.74,JOD
-9286,Roana Bliss,(240) 5882460,rblissv@sourceforge.net,50,M,,3,8,Business Development,1153.27,1.81,USD
+9286,Roana Bliss,(240) 5882460,rblissv@sourceforge.net,50,M,,3,8,,1153.27,1.81,USD
 8506,Lucina Larrosa,(317) 8782429,llarrosaw@cpanel.net,35,F,,6,17,Accounting,1065.98,1.4,USD
 8195,Diahann Bussy,(290) 9973910,dbussyx@oaic.gov.au,40,M,,1,39,Services,1113.59,0.18,JOD
 8699,Alix Titchener,(884) 1045249,atitchenery@qq.com,35,female,,7,8,Support,891.86,0.44,JOD
