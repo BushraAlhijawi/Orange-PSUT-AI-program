@@ -1,4 +1,4 @@
-ID,employeeName,phoneNo,email,Age,Gender,hasChronic,rank,ExperienceYear,Department,Salary,monthlyCommission(%),paymentCurrency
+ID,employeeName,phoneNo,email,Age,Gender,hasChronic,rank,ExperienceYear,Department,Salary,monthlyCommission(%),salaryCurrency
 8436,Eunice Bownd,(257) 2854590,ebownd0@nymag.com,38,F,No,8,36,Product Management,2179.81,0.37,JOD
 8163,Salvidor Bourdice,(640) 5104618,sbourdice1@who.int,54,Female,,8,10,Research and Development,614.87,1.91,JOD
 9993,Emylee Samways,(634) 1432842,esamways2@cbslocal.com,24,M,,8,12,Research and Development,1187.16,0.49,USD
