@@ -4,7 +4,7 @@ c4011449-06b3-4ea7-b2d9-8840ce2e409f,Parry Drane,(235) 9858645,pdrane1@yandex.ru
 3708f257-f747-4c42-a4bc-e49c1e0db59d,Pamela Tubby,(217) 1320175,ptubby2@army.mil,25,male,28,Human Resources,967.89,1.57,JOD
 12d86434-8322-4b54-8ad0-95ba1ed7ffd5,Willow Hearne,(762) 7654556,whearne3@hp.com,27,male,4,Legal,1737.36,1.63,USD
 7c396715-0430-40ba-8b24-6d82891443f3,Justus Pittle,(176) 9418965,jpittle4@umn.edu,55,male,19,Accounting,1646.22,1.37,JOD
-0201f232-5340-4196-b4d0-0b9a4e39c8d5,Ty Ganderton,(789) 4042835,tganderton5@4shared.com,47,F,38,Services,1124.34,0.57,USD
+0201f232-5340-4196-b4d0-0b9a4e39c8d5,Ty Ganderton,(789) 4042835,tganderton5@4shared.com,47,F,38,Services,8500,0.57,USD
 4bb9165b-2519-4b88-a4c9-72feeff9e507,Patricia Mitchinson,(770) 5678933,pmitchinson6@sciencedaily.com,40,female,0,Services,1416.7,1.26,JOD
 0904e9e1-d59a-471c-b9b0-c1a8ed324d7f,Francklyn Tylor,(375) 4874508,ftylor7@alibaba.com,35,Female,7,Legal,892.36,0.32,USD
 c2ed5f97-3769-4b93-ac03-5ccaa741b1a4,Myer Mulvihill,(756) 6600421,mmulvihill8@xinhuanet.com,40,female,36,Engineering,1147.78,1.34,USD
@@ -13,7 +13,7 @@ cd65b3cc-1fde-4b4f-9249-96d6af886feb,Erda Alfonsetti,(500) 9026482,ealfonsetti9@
 32a63125-5e67-47df-bd9d-cf50a0313616,Wilona Kadwallider,(477) 5361442,wkadwalliderb@uol.com.br,51,F,23,Sales,2414.39,1.75,USD
 dd764186-6bea-47e0-a83a-83f3613e55e1,Talbert Hoofe,(999) 4739373,thoofec@photobucket.com,47,Female,34,Business Development,2283.95,0.53,JOD
 0df91965-499a-41f2-accb-90250c548cb4,Farleigh Spoors,(726) 6999185,fspoorsd@craigslist.org,47,Female,8,Services,1930.75,0.24,JOD
-e4d0b60c-5a15-471e-a9bd-7c62b9fa690e,Kimmy Shiel,(191) 5034094,kshiele@engadget.com,30,M,37,Services,692.12,1.7,JOD
+e4d0b60c-5a15-471e-a9bd-7c62b9fa690e,Kimmy Shiel,(191) 5034094,kshiele@engadget.com,30,M,37,Services,7000,1.7,JOD
 d832b32a-6dcd-4c18-94fc-b8d51a6a40fe,Silva Ernke,(909) 9636564,sernkef@cam.ac.uk,22,M,2,Training,511.92,0.83,USD
 63a11c87-3a53-4a41-a5cf-9f6e0e48a83b,Maurine Tollet,(799) 1684648,mtolletg@timesonline.co.uk,34,Female,20,Engineering,2258.23,0.47,USD
 4cfa1a8c-7984-4edf-9784-10ec50098a90,Cathrin Grunwald,(297) 2651489,cgrunwaldh@taobao.com,34,male,12,Business Development,1508.57,1.48,JOD
@@ -21,7 +21,7 @@ a4dca5bc-13f6-46bc-bd17-d3385e89651f,Rasia Roust,(722) 8003268,rrousti@godaddy.c
 f99907d1-4dfa-45c6-acad-a21991c1b811,Genovera Maffi,(225) 3312850,gmaffij@go.com,30,male,28,Support,1305.26,1.98,USD
 59cd44ac-59a1-469c-8adf-96376d4149b4,Aileen McArthur,(870) 8088971,amcarthurk@hc360.com,53,Female,16,Marketing,1513.29,1.53,JOD
 782d7930-f5b9-4ab7-bf0c-0292531d0b5d,Burr Husthwaite,(998) 5085323,bhusthwaitel@columbia.edu,26,F,17,Support,1192.16,1.33,USD
-aa21d552-9f27-4d40-b2cc-04397fddafc2,Phylys Schoenfisch,(421) 3838228,pschoenfischm@elegantthemes.com,45,Female,22,Accounting,1136.74,1.0,USD
+aa21d552-9f27-4d40-b2cc-04397fddafc2,Phylys Schoenfisch,(421) 3838228,pschoenfischm@elegantthemes.com,45,Female,22,Accounting,1136.74,1,USD
 1913361b-212d-4081-96c6-e9e424581e79,Leilah Shorter,(807) 1868122,lshortern@phoca.cz,27,male,33,Legal,1749.24,1.77,JOD
 f5263382-a0fd-4ece-a847-2a13b80d1919,Les Bortoloni,(257) 9785825,lbortolonio@indiegogo.com,44,female,6,Engineering,1246.15,1.15,JOD
 3bf509ce-a500-4b8b-ade8-13503b6e3f09,Reta Castelot,(201) 4488905,rcastelotp@arizona.edu,37,F,23,Training,918.22,1.44,JOD
@@ -42,14 +42,14 @@ a715097c-098f-4365-94b4-fa81f9cea91a,Starla Govenlock,(999) 8599187,sgovenlock10
 aa25d6cb-b0dd-4f2b-bbc7-287e6a9c3281,Bruce Fleming,(801) 9901194,bfleming14@google.es,47,M,13,Product Management,614.12,0.72,JOD
 3cf43553-9048-4193-9d33-191ad9af8ce0,Loren Girogetti,(600) 6954120,lgirogetti15@seattletimes.com,24,M,32,Support,1764.47,1.6,JOD
 cb410cee-cc3d-4246-914b-74443eab0368,Hugues Dullard,(483) 8485522,hdullard16@spiegel.de,45,male,14,Services,1803.69,1.26,JOD
-6cc180af-ec7d-45d5-b61b-aa7461e100ec,Lita McMorland,(730) 1437430,lmcmorland17@typepad.com,53,M,3,Sales,1408.02,0.6,JOD
+6cc180af-ec7d-45d5-b61b-aa7461e100ec,Lita McMorland,(730) 1437430,lmcmorland17@typepad.com,53,M,3,Sales,6000,0.6,JOD
 6f349391-7592-4576-97e1-7689b24fa64e,Anne Clingan,(440) 4589510,aclingan18@360.cn,37,F,38,Engineering,2305.66,1.91,USD
 ce40e4a1-b84a-43a2-8bb5-67f9cb67f547,Nealy Kaesmans,(621) 4818344,nkaesmans19@ovh.net,41,F,39,Business Development,1731.38,0.43,JOD
 017a6d60-d1cd-443e-a5e2-636e572a00dd,Forrester Scroggs,(242) 7095940,fscroggs1a@unblog.fr,24,female,6,Accounting,1946.66,0.33,JOD
 f1788e41-ba32-44e8-94d5-38d7a90bcc78,Jamie McMoyer,(592) 9246023,jmcmoyer1b@cornell.edu,,male,27,Product Management,968.82,0.21,USD
 e7d7b337-f4b9-4b32-bba4-8e178145474f,Alexandre Boame,(755) 7401744,aboame1c@state.tx.us,36,male,36,Sales,1750.06,1.73,USD
 5fb2b0f6-b961-4b45-bfa5-518e52528cef,Ethelind Coare,(613) 2260317,ecoare1d@zimbio.com,41,M,27,Support,1269.31,0.33,JOD
-5d5393ac-3a5c-45cb-86aa-6ab132583df1,Abbi Dominiak,(313) 6288236,adominiak1e@issuu.com,39,F,1,Engineering,711.06,0.01,USD
+5d5393ac-3a5c-45cb-86aa-6ab132583df1,Abbi Dominiak,(313) 6288236,adominiak1e@issuu.com,39,F,1,Engineering,-1250,0.01,USD
 27eef160-2783-40a6-aa6f-ff162ee2fd49,Meryl Bjorkan,(325) 9457405,mbjorkan1f@mit.edu,23,female,32,Business Development,1575.44,1.27,JOD
 fdfade10-c978-4ae8-bdc6-994d6627d989,Lin Chrstine,(178) 5752779,lchrstine1g@jiathis.com,36,M,18,Sales,1780.22,1.86,USD
 a5597572-01c0-46c7-b052-b3b7f8c0aabb,Melanie Eakly,(266) 5813706,meakly1h@blogger.com,50,Female,6,Marketing,1372.65,0.85,USD
@@ -57,9 +57,9 @@ a5597572-01c0-46c7-b052-b3b7f8c0aabb,Melanie Eakly,(266) 5813706,meakly1h@blogge
 10cdc922-3fde-4945-a557-62994b1635dd,Laverne Pietrzyk,(816) 5557652,lpietrzyk1j@imageshack.us,38,M,15,Sales,532.06,1.43,JOD
 e5d95368-6119-48fd-8827-5db8fb6ee91a,Maximo Iveagh,(427) 2660769,miveagh1k@nydailynews.com,26,female,19,Research and Development,2127.95,0.73,JOD
 9fa00d0f-96c2-412a-a77d-9fa1a6ee3600,Georgeta Brittin,(176) 2351093,gbrittin1l@businessweek.com,41,Female,4,Sales,1971.28,0.74,USD
-4dbc2b9f-ef68-4f53-93a3-415dfd2a0969,Sonnnie Innocenti,(515) 4359077,sinnocenti1m@state.tx.us,34,female,38,Human Resources,2248.14,1.0,JOD
-191b1fe2-5ff2-4ce5-8af7-9ee9c5d30a43,Clint Petett,(892) 3035399,cpetett1n@lulu.com,30,F,3,Business Development,2190.0,1.99,USD
-afe9476f-1234-44fb-8dcb-451acab05da3,Antonina Witherspoon,(199) 4482671,awitherspoon1o@amazon.co.uk,30,Female,31,Research and Development,1030.0,1.51,JOD
+4dbc2b9f-ef68-4f53-93a3-415dfd2a0969,Sonnnie Innocenti,(515) 4359077,sinnocenti1m@state.tx.us,34,female,38,Human Resources,2248.14,1,JOD
+191b1fe2-5ff2-4ce5-8af7-9ee9c5d30a43,Clint Petett,(892) 3035399,cpetett1n@lulu.com,30,F,3,Business Development,2190,1.99,USD
+afe9476f-1234-44fb-8dcb-451acab05da3,Antonina Witherspoon,(199) 4482671,awitherspoon1o@amazon.co.uk,30,Female,31,Research and Development,1030,1.51,JOD
 e5a6c283-2a8c-4011-a77c-14c3c543694a,Dru Pendleberry,(742) 8375271,dpendleberry1p@chronoengine.com,46,male,35,Engineering,1592.32,1.93,USD
 d86a16f8-cfeb-4d60-8d91-6653fcb730dd,Gannon Elliker,(231) 8729975,gelliker1q@desdev.cn,22,female,34,Sales,1351.48,1.84,JOD
 82040ae3-8c8d-453b-9f21-17e57654714d,Natalee Gabbat,(934) 4260110,ngabbat1r@hubpages.com,28,female,5,Accounting,1623.72,1.21,USD
@@ -92,14 +92,14 @@ a1ddd9e4-c9cd-4f43-9239-34a359730808,Maisey Fishwick,(113) 5834834,mfishwick2e@a
 ab0a5c08-18b9-497e-9ae7-7cf900c8ae9d,Burg Feavers,(904) 5103720,bfeavers2i@yahoo.com,49,male,8,Human Resources,2282.61,1.61,JOD
 30ce1c0b-e3a8-4741-bb65-de755afecd9d,Redford Clausen,(914) 5646275,rclausen2j@friendfeed.com,26,male,0,Marketing,2132.88,1.95,JOD
 18009dca-1a6f-4eb9-b377-b4ccdc5166b4,Garner Klimowski,(798) 7015747,gklimowski2k@ezinearticles.com,29,male,20,Marketing,2472.54,1.88,USD
-98690294-787c-4c6b-95dc-2bd402ac6926,Jenna De Banke,(198) 3879084,jde2l@bloomberg.com,45,Female,32,Accounting,749.26,2.0,USD
+98690294-787c-4c6b-95dc-2bd402ac6926,Jenna De Banke,(198) 3879084,jde2l@bloomberg.com,45,Female,32,Accounting,749.26,2,USD
 40a3f699-1b88-41f7-96ee-4ef8a4cf64a4,Lauraine Purslow,(566) 2987759,lpurslow2m@biglobe.ne.jp,45,male,27,Accounting,950.65,0.72,JOD
 974aa711-07dc-412d-80e7-8cb4ac761583,Wadsworth Romanin,(628) 1243792,wromanin2n@washington.edu,38,F,15,Legal,1471.95,1.24,JOD
 2d3311b7-89bf-42b7-a66f-4bfbc34f2a86,Christan Glendzer,(108) 7225571,cglendzer2o@oracle.com,52,M,15,Business Development,1360.82,0.86,JOD
 55473605-35f8-4044-a65b-2db83ee52872,Hamish Strank,(225) 4220826,hstrank2p@indiatimes.com,54,M,12,Marketing,2186.2,0.49,JOD
 ea363d8e-e2cb-41b6-bac7-4f0f82114b56,Jacintha Addekin,(220) 3401040,jaddekin2q@vimeo.com,51,female,9,Product Management,1882.05,1.68,USD
 594b798d-894b-42cb-a403-ab275ba65984,Luce Fine,(773) 8880583,lfine2r@pen.io,47,Female,28,Sales,880.25,0.6,JOD
-065be2dc-a6eb-4e49-ab47-734c231bcf9c,Nate Blatherwick,(872) 9713920,nblatherwick2s@slideshare.net,25,M,8,Research and Development,2081.32,1.26,JOD
+065be2dc-a6eb-4e49-ab47-734c231bcf9c,Nate Blatherwick,(872) 9713920,nblatherwick2s@slideshare.net,90,M,8,Research and Development,2081.32,1.26,JOD
 69201084-3cda-463e-9ba2-63f14cdb2343,Roselia Paradine,(140) 9037021,rparadine2t@wikimedia.org,27,Female,29,Business Development,1992.07,1.22,JOD
 0e14d6e8-db59-4fba-8c2f-8c07ba55544c,Ciel Lowdwell,(507) 6496791,clowdwell2u@indiatimes.com,44,F,30,Accounting,642.47,1.24,USD
 387bd992-df3b-421a-946c-a3392d09a87c,Gerhardt Bond,(882) 8243513,gbond2v@cyberchimps.com,54,F,19,Accounting,,1.25,USD
@@ -245,7 +245,7 @@ e05b2707-78a9-49c0-9b1a-86aa37edb837,Blair Goldsby,(165) 3381607,bgoldsby6i@mtv.
 4c618957-3292-4b1f-8fa6-0943d6261d33,Stewart Verey,(209) 8821350,sverey6r@wikimedia.org,27,female,21,Research and Development,593.74,1.37,USD
 79c70e7e-0023-4044-9828-98fde0ce6979,Harmon Beecker,(986) 8214339,hbeecker6s@ftc.gov,44,female,5,Legal,2192.74,1.01,JOD
 fa086bbd-8d3f-43ab-9386-ed8b25007ddb,Gayleen Dungate,(811) 9871289,gdungate6t@joomla.org,29,male,1,Services,1056.7,0.73,JOD
-c340813d-ab2c-44fe-89b9-145952888325,Galven Gonsalvo,(992) 6433636,ggonsalvo6u@prnewswire.com,28,M,34,Sales,1526.0,0.65,JOD
+c340813d-ab2c-44fe-89b9-145952888325,Galven Gonsalvo,(992) 6433636,ggonsalvo6u@prnewswire.com,28,M,34,Sales,1526,0.65,JOD
 a442a8cf-3345-43c6-9165-e7c494e0cf63,Lammond Crisell,(720) 7264174,lcrisell6v@is.gd,43,Female,39,Sales,1112.02,1.89,USD
 8ffb1fb5-b1db-4dad-9162-58d82ea93748,Blair Kemmey,(129) 4573090,bkemmey6w@wiley.com,,male,3,Product Management,2405.35,1.52,USD
 6a3fb8f1-68cd-482b-9cd2-23faa048fc13,Northrop McAw,(470) 2437222,nmcaw6x@photobucket.com,46,F,8,Engineering,2459.1,1.66,JOD
@@ -298,7 +298,7 @@ d4f1a5ef-3006-4fa1-bf13-8d1c81220357,Gian Housaman,(370) 6369776,ghousaman85@sha
 9ae4d07c-fdb3-4754-b47a-0be20b791026,Geoffrey Wandrack,(387) 7655525,gwandrack88@domainmarket.com,33,Female,10,Business Development,931.55,0.85,JOD
 deb556ba-ebcd-452a-85da-c40ce88da5b4,Celesta Thom,(670) 2278767,cthom89@zdnet.com,24,M,7,Accounting,695.71,1.61,JOD
 f8427fc5-50dd-4b82-818a-b022bc9176a1,Mamie Jachimczak,(171) 4670209,mjachimczak8a@dagondesign.com,26,male,17,Research and Development,1323.37,0.45,USD
-907dc524-3acd-4d0c-9e7d-f0ff8f2e3e7c,Sigismond O' Connell,(528) 7627074,so8b@infoseek.co.jp,22,F,18,Product Management,791.73,1.0,USD
+907dc524-3acd-4d0c-9e7d-f0ff8f2e3e7c,Sigismond O' Connell,(528) 7627074,so8b@infoseek.co.jp,22,F,18,Product Management,791.73,1,USD
 592968bd-80d8-47af-ab2b-3a7c3b55d672,Janith Smellie,(536) 6030902,jsmellie8c@tuttocitta.it,42,F,35,Training,765.53,1.77,JOD
 009e9028-0ab8-4f8f-a2c9-9d2f0327cd77,Francesca Hampson,(278) 2183514,fhampson8d@dyndns.org,28,F,9,Sales,,0.48,USD
 e7a7e993-b072-4045-87c6-b15182c6b5b0,Kile Picard,(341) 9921814,kpicard8e@naver.com,28,male,9,Training,954.44,0.57,USD
@@ -442,7 +442,7 @@ d6238de5-a02c-4d81-b1b3-c3d708aadc47,Cort Hender,(358) 7627590,chenderc6@sakura.
 fcc8c680-6a2b-4391-8842-36d8219add03,Coralie Gurdon,(677) 3523800,cgurdonc8@prnewswire.com,52,M,7,Human Resources,902.36,1.22,JOD
 9d6de83e-f416-4d02-9b2c-6c5b6bcace42,Ayn Seagrave,(504) 9252450,aseagravec9@list-manage.com,38,M,4,Business Development,2433.95,1.7,JOD
 d11d47b1-0ce9-477b-9222-f16da5f67ee7,Frankie Treanor,(542) 4518042,ftreanorca@indiatimes.com,54,Female,6,Legal,869.8,1.9,JOD
-7faccbb2-7d46-425f-8dab-bd6ad64203ec,Michel Casado,(458) 7366528,mcasadocb@wp.com,22,female,24,Product Management,1979.0,0.95,JOD
+7faccbb2-7d46-425f-8dab-bd6ad64203ec,Michel Casado,(458) 7366528,mcasadocb@wp.com,22,female,24,Product Management,1979,0.95,JOD
 2e5ec0b5-bcf7-4c55-a97d-66246d85fd8f,Natalya Tallowin,(908) 6506419,ntallowincc@washingtonpost.com,25,F,22,Services,1166.83,1.72,JOD
 87347cd5-5451-40c9-b321-353e5abc3c9c,Katharyn Laurencot,(747) 6041324,klaurencotcd@hp.com,22,female,33,Training,,1.63,JOD
 9e2dc09c-44cf-4f41-8cf9-acc2ca99ea43,Granthem Smallcomb,(794) 3584725,gsmallcombce@4shared.com,23,male,25,Product Management,2048.54,1.37,USD
@@ -459,7 +459,7 @@ ea202fb9-6a29-4a49-a3a8-c59a973b1779,Leonid O'Downe,(271) 7313666,lodownecm@goog
 f230f3bf-75e7-4761-9446-6263f94c829d,Graeme Kinze,(911) 2867084,gkinzecp@boston.com,46,Female,19,Accounting,976.49,0.68,USD
 f803ca7e-1467-451e-bb82-b990a83750ec,Mattie Thuillier,(682) 3108638,mthuilliercq@answers.com,49,Female,37,Support,721.28,0.66,USD
 cf305394-f356-43c3-bfda-7ff16063d70f,Bevin Dell Casa,(771) 3582826,bdellcr@ibm.com,54,Female,15,Support,1535.64,1.4,USD
-97d4b9b7-7bd2-4848-a05e-0913d0647382,Jo Decker,(491) 9644958,jdeckercs@webs.com,22,M,7,Business Development,1615.0,1.61,USD
+97d4b9b7-7bd2-4848-a05e-0913d0647382,Jo Decker,(491) 9644958,jdeckercs@webs.com,22,M,7,Business Development,1615,1.61,USD
 21b61c49-a723-4812-986b-e327311665c2,Clim Chirm,(960) 7432040,cchirmct@tripadvisor.com,52,F,22,Services,1059.4,1.88,USD
 cc764d50-84bf-46fa-b74a-2b84c7098cdb,Rivy Pynn,(992) 8918692,rpynncu@cbc.ca,26,Female,31,Services,737.35,1.22,JOD
 8f04f440-bc9f-419b-8860-d7f0eeb8f416,Dacie Hymas,(972) 9194914,dhymascv@wordpress.com,41,Female,14,Support,1040.68,1.73,USD
@@ -512,7 +512,7 @@ d03c9b23-9abc-4b6c-9d83-0063fed3952f,Ann Paradin,(994) 1134056,aparadine1@hp.com
 7f234017-1f63-450b-a9de-0b8ad952d1f0,Natalya Fenby,(275) 5020091,nfenbye6@harvard.edu,25,male,3,Training,775.55,1.64,USD
 62640685-4406-4eb2-9bd4-49d44ad2881a,Fairlie Pods,(380) 2897876,fpodse7@yolasite.com,30,male,4,Legal,1456.55,1.34,USD
 3b95ff95-df0e-450c-a247-fb688b952cd4,Adam Ridesdale,(387) 8692536,aridesdalee8@bbc.co.uk,31,female,19,Support,1163.03,1.51,JOD
-5b4ab392-5a54-4dac-af3a-e26b8015c7b5,Kellie Dowears,(228) 2636554,kdowearse9@g.co,28,M,9,Accounting,1673.24,2.0,JOD
+5b4ab392-5a54-4dac-af3a-e26b8015c7b5,Kellie Dowears,(228) 2636554,kdowearse9@g.co,28,M,9,Accounting,1673.24,2,JOD
 78e31a47-f0d7-4c9e-b558-07f7d7ac7d59,Marika Kobisch,(906) 2879633,mkobischea@businessinsider.com,55,Female,0,Training,1825.25,0.14,JOD
 d978d98b-38c1-411b-83dc-69c685666c9f,Kathryne MacDonagh,(338) 8506676,kmacdonagheb@nifty.com,29,female,5,Product Management,2011.2,0.14,JOD
 84a0dfbc-a94f-4642-88d0-20f48e70298c,Edgar Kopfen,(896) 1383708,ekopfenec@statcounter.com,54,Female,30,Sales,1839.9,1.3,JOD
@@ -522,7 +522,7 @@ bfd917ec-abce-46be-b9a4-4757ec80c5a5,Hanna Oiller,(392) 8814745,hoilleref@usa.go
 bb0be266-e341-4cec-9091-63a379379f57,Corly Hyrons,(140) 9372969,chyronseg@abc.net.au,36,M,16,Accounting,518.24,0.31,JOD
 2891f04e-9404-405e-9ed0-6673f4363b98,Moritz McEvilly,(651) 7285611,mmcevillyeh@prlog.org,42,M,33,Research and Development,2152.67,0.57,USD
 269caaeb-9c93-4808-94ae-3959e6fcab68,Willabella Robbel,(147) 8960880,wrobbelei@nbcnews.com,29,M,24,Services,1136.31,0.69,JOD
-a3a94862-1f47-4702-986d-510a5d820e44,Cornelle Smidmor,(712) 4821696,csmidmorej@phoca.cz,26,M,3,Sales,742.0,0.49,USD
+a3a94862-1f47-4702-986d-510a5d820e44,Cornelle Smidmor,(712) 4821696,csmidmorej@phoca.cz,26,M,3,Sales,742,0.49,USD
 c5e5242d-25b3-490f-ae8e-084e491750f2,Von Ellens,(819) 9231353,vellensek@omniture.com,47,M,9,Sales,770.68,1.76,JOD
 a3e23e2c-d5a1-4a38-b4e3-b3775a333796,Diahann Snazel,(374) 4532111,dsnazelel@toplist.cz,30,F,0,Accounting,1455.5,1.54,USD
 89bde2a1-5c81-4dbf-b31d-8a08dd8b8bf3,Johnny Fernehough,(677) 2169975,jfernehoughem@netvibes.com,41,male,3,Business Development,,0.71,USD
@@ -561,7 +561,7 @@ b0441a61-eaa5-4010-acf0-dd384398fbbe,Justen O'Hagan,(403) 7144828,johaganfh@home
 d7cf5462-c8dc-484f-a5a7-aead2808f4e0,Hilde Whiteside,(434) 6080475,hwhitesidefj@springer.com,22,female,25,Services,1941.52,1.99,JOD
 909edfb9-5f2f-44bf-9e33-8bc3e60deaa9,Billie Cornewall,(433) 1032927,bcornewallfk@mtv.com,55,female,13,Legal,1236.11,1.1,USD
 a310d184-0d4c-4b93-8bfa-fc6da54eb598,Clevie Camilli,(666) 6524392,ccamillifl@washingtonpost.com,47,male,15,Support,,0.08,JOD
-32182431-762e-4f54-a5bf-6207376208b9,Randie Bache,(964) 8687699,rbachefm@unicef.org,38,F,36,Marketing,2344.23,2.0,JOD
+32182431-762e-4f54-a5bf-6207376208b9,Randie Bache,(964) 8687699,rbachefm@unicef.org,38,F,36,Marketing,2344.23,2,JOD
 e6b5d543-fc4e-4f87-aeb4-2054b2099047,Theadora Almon,(749) 2020377,talmonfn@pagesperso-orange.fr,43,F,26,Support,,1.56,USD
 7c85a918-06c0-44f7-8e0a-2d8beb6d3b56,Wallis Merrigans,(659) 6891536,wmerrigansfo@prlog.org,43,F,4,Training,1062.33,1.57,USD
 05f4602e-5abc-4e3c-bae7-935b56cf8a02,Sunny Blacker,(724) 2959211,sblackerfp@nyu.edu,42,male,28,Product Management,,1.18,JOD
@@ -585,7 +585,7 @@ e286439d-3f4c-43f7-b5dc-26df80f20f84,Leroy Buckingham,(681) 8364226,lbuckinghamg
 9d1b3146-aaa4-447a-9fd4-fae974933136,Samuel Videler,(205) 4298131,svidelerg7@prweb.com,34,Female,19,Legal,,0.26,USD
 6e9a836d-efc7-4f69-8a0f-fef19ce2bc52,Garrard Melody,(948) 1302302,gmelodyg8@oakley.com,25,M,31,Services,902.22,0.97,JOD
 532c376a-7832-4050-b0cc-bb306682fa61,Conant Choffin,(579) 7927034,cchoffing9@fastcompany.com,49,M,32,Support,2049.53,0.71,USD
-4ac7f2a9-a724-45b4-a5b4-d705710e36e7,Shayne Straffon,(704) 6742716,sstraffonga@netscape.com,29,Female,10,Services,979.51,1.0,USD
+4ac7f2a9-a724-45b4-a5b4-d705710e36e7,Shayne Straffon,(704) 6742716,sstraffonga@netscape.com,29,Female,10,Services,979.51,1,USD
 e868a91b-33d6-40e6-ad74-5ce06e8fad2b,Denna Taylder,(855) 9524613,dtayldergb@msu.edu,53,Female,10,Product Management,2104.22,0.12,USD
 84e21c68-be18-4349-aa76-abbb5982535d,Sayres McAughtry,(153) 3914393,smcaughtrygc@domainmarket.com,54,female,5,Legal,1609.13,0.97,JOD
 da7b736c-c249-4db3-a915-e555092a41ad,Rafaelia Fetherby,(681) 2192617,rfetherbygd@dot.gov,23,Female,38,Sales,824.78,1.29,JOD
@@ -627,7 +627,7 @@ ae4aa9cc-6b90-4ca7-a68f-9fec08157866,Aguistin Krauze,(225) 8680015,akrauzehb@mtv
 30960d1b-3d6d-4c89-9f2c-19f83361bd07,Cristen Bartleman,(685) 5247571,cbartlemanhd@privacy.gov.au,37,male,40,Training,848.47,0.07,JOD
 44548bbf-0a05-4d69-9cde-04451551c262,Banky Gilffilland,(339) 5024335,bgilffillandhe@t-online.de,46,female,15,Sales,854.82,0.41,USD
 3b505502-8cf7-4e92-8908-13becb404eb9,Joelle Papa,(700) 6721194,jpapahf@rambler.ru,51,female,29,Sales,515.65,0.58,USD
-1fb3fb07-39db-4140-9864-aef1ea27c99c,Kristofer Malsher,(908) 4416252,kmalsherhg@illinois.edu,33,F,19,Accounting,930.0,1.31,USD
+1fb3fb07-39db-4140-9864-aef1ea27c99c,Kristofer Malsher,(908) 4416252,kmalsherhg@illinois.edu,33,F,19,Accounting,930,1.31,USD
 c12209e7-ac96-4b08-a854-6e40931b3a23,Tades Zealander,(355) 9858841,tzealanderhh@eventbrite.com,25,Female,11,Accounting,2086.8,1.61,JOD
 7dc4b9ad-ff2b-4877-8eef-a3d61685b8db,Taddeo Stearn,(210) 4379950,tstearnhi@123-reg.co.uk,27,female,38,Research and Development,1540.09,1.02,JOD
 4947e422-0e29-468d-a24f-3274640ba4c9,Rutter Kipling,(669) 9016246,rkiplinghj@hexun.com,49,F,0,Legal,1788.42,1.67,JOD
@@ -744,7 +744,7 @@ a74f92b1-78b9-4750-8f6c-400310ece7ef,Dehlia Playhill,(422) 6199214,dplayhillkh@t
 7f6020eb-ac51-4e27-81b0-dc0e4a577210,Beulah Piola,(606) 2999454,bpiolakm@foxnews.com,35,female,27,Product Management,,1.55,USD
 26de236c-b437-48a6-87d1-3e66b3c6fd2b,Robinson Grimbleby,(631) 3799936,rgrimblebykn@webmd.com,25,male,23,Engineering,686.37,0.42,USD
 87d958c2-a681-46dc-ae89-332dac529308,Eduardo Falloon,(460) 1077069,efalloonko@nature.com,30,F,15,Marketing,516.01,0.02,USD
-8f5b9947-420b-49fe-b32b-ab1de79a141c,Inger Berthon,(447) 8082707,iberthonkp@lulu.com,30,male,3,Human Resources,2061.0,0.92,USD
+8f5b9947-420b-49fe-b32b-ab1de79a141c,Inger Berthon,(447) 8082707,iberthonkp@lulu.com,30,male,3,Human Resources,2061,0.92,USD
 adb4d915-4089-4906-b6da-40d6de8f82d0,Mikaela Lunam,(696) 2246253,mlunamkq@epa.gov,34,female,20,Research and Development,561.62,1.14,USD
 afeae0e5-c763-4e4a-b9f7-c9d067db114a,Elmore Peggrem,(418) 6533689,epeggremkr@ow.ly,23,Female,5,Accounting,1272.85,1.15,JOD
 9a4d2e03-d17e-4956-84ee-f1f3d8c67228,Brose Amies,(582) 4943626,bamiesks@goo.ne.jp,48,M,28,Marketing,1332.96,0.75,JOD
@@ -757,7 +757,7 @@ eead719e-1979-4860-9199-522c9a62fe4f,Wang Worgen,(178) 7898040,wworgenkt@cdbaby.
 39797807-d447-433e-b0e7-a8757a94eb92,Freeland Mew,(701) 8298172,fmewkz@thetimes.co.uk,41,M,11,Legal,2379.27,1.24,USD
 1fda06fe-0367-4cd9-8623-8acbaad8bbd9,Pincas Hachette,(978) 7107209,phachettel0@un.org,53,Female,17,Human Resources,1246.95,0.99,JOD
 40d2afae-e7b6-4fc3-96d8-e61565e42852,Eamon Shawdforth,(462) 4330348,eshawdforthl1@nhs.uk,34,Female,21,Human Resources,2115.35,1.39,USD
-5d6e18a2-b358-4f4f-b6d3-1ec7e61309fb,Heath Crosier,(933) 4828967,hcrosierl2@infoseek.co.jp,32,F,40,Support,805.3,2.0,USD
+5d6e18a2-b358-4f4f-b6d3-1ec7e61309fb,Heath Crosier,(933) 4828967,hcrosierl2@infoseek.co.jp,32,F,40,Support,805.3,2,USD
 e11c6ed4-2444-450f-afb7-9b4de352dbe7,Thaxter Beverage,(880) 2932331,tbeveragel3@cmu.edu,25,male,12,Services,585.01,0.72,USD
 e937db19-c7ca-4412-9fc7-a15d8ac9a77d,Celle Place,(689) 9644738,cplacel4@epa.gov,28,male,39,Training,1581.09,1.66,JOD
 e48eeb91-9f80-4046-88c9-43c80fe96de6,Kimmie Athelstan,(537) 6455836,kathelstanl5@samsung.com,40,female,11,Business Development,881.55,0.06,USD
@@ -930,7 +930,7 @@ a6644158-bfde-4d47-aa64-641dd9e7ebfc,Juliane Sooper,(728) 6051690,jsooperpr@wile
 5cf27f3f-6ba0-4991-a57a-334531e24b09,Neil Pillington,(403) 8351974,npillingtonps@ezinearticles.com,26,M,33,Product Management,2184.02,1.63,USD
 c3a27751-fdc8-4251-8a85-3c36b5ba7fd1,Garik Denisot,(573) 7699398,gdenisotpt@omniture.com,29,M,31,Human Resources,2228.99,0.09,JOD
 fe8a63b0-8cd7-4b90-b340-372c4f0757a9,Hester Clements,(439) 7385816,hclementspu@about.me,25,F,8,Business Development,1221.51,1.04,USD
-0b1fc653-bfb1-40b4-9f19-b0edee648420,Vallie Brockington,(630) 8417433,vbrockingtonpv@g.co,38,male,36,Training,2128.28,1.0,JOD
+0b1fc653-bfb1-40b4-9f19-b0edee648420,Vallie Brockington,(630) 8417433,vbrockingtonpv@g.co,38,male,36,Training,2128.28,1,JOD
 5d98de49-1482-4b67-851f-dffeba94105e,Nappie Bezants,(787) 1911828,nbezantspw@bizjournals.com,35,female,26,Marketing,1650.65,0.5,JOD
 547ac80a-5616-4114-953f-d3cf17474c44,Xenos Gunter,(911) 2246565,xgunterpx@hexun.com,32,Female,26,Services,966.53,1.45,JOD
 3f788229-bf55-4653-a788-044a9bad53df,Shir Springtorpe,(643) 6186282,sspringtorpepy@jugem.jp,49,F,17,Business Development,1251.79,0.03,JOD
@@ -954,7 +954,7 @@ cba440e3-b30d-4620-98fd-379ce1fab8db,Charleen Vedenichev,(254) 1217309,cvedenich
 e9d4d424-39c5-4f6a-9424-1f18cce72c1a,Olivier Rubke,(530) 3659375,orubkeqg@github.io,48,M,16,Product Management,1291.8,0.01,JOD
 753f88a1-b343-42f5-b2fb-c9a6d7ee8058,Lia Dooman,(667) 7578054,ldoomanqh@statcounter.com,25,Female,11,Product Management,1445.59,0.5,USD
 610ecd8b-2a90-4781-b2fc-b771c7860013,Alida Overel,(669) 8101695,aoverelqi@intel.com,25,M,16,Engineering,1234.31,1.58,USD
-005ba2ba-af06-4406-a81a-324b836a6544,Beverie Burkett,(474) 8221418,bburkettqj@biglobe.ne.jp,29,M,21,Support,2042.0,0.14,USD
+005ba2ba-af06-4406-a81a-324b836a6544,Beverie Burkett,(474) 8221418,bburkettqj@biglobe.ne.jp,29,M,21,Support,2042,0.14,USD
 fb4c49c1-4fb8-493d-8bf2-1eb5bd903784,Patty Gracey,(550) 6303997,pgraceyqk@t.co,45,Female,15,Sales,1288.87,0.13,JOD
 7a1ebf10-0f00-4c16-97d0-c9b65a911e43,Leandra Fattore,(677) 9535422,lfattoreql@imgur.com,36,F,14,Sales,1280.56,0.99,JOD
 9d9ac066-f668-488c-87f8-6917bd55a40c,Diane Endle,(206) 2490907,dendleqm@washingtonpost.com,25,female,38,Legal,2479.4,0.5,USD
