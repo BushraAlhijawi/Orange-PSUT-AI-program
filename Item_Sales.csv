@@ -203,6 +203,14 @@ DRE49,20.75,Low Fat,0.021232318,Soft Drinks,151.1024,OUT013,1987,High,Tier 3,Sup
 DRE49,20.75,Low Fat,0.02128304,Soft Drinks,153.5024,OUT049,1999,Medium,Tier 1,Supermarket Type1,2428.8384
 DRE49,20.75,Low Fat,0.021293097,Soft Drinks,151.9024,OUT045,2002,,Tier 2,Supermarket Type1,2732.4432
 DRE49,,Low Fat,0,Soft Drinks,153.8024,OUT027,1985,Medium,Tier 3,Supermarket Type3,7741.9224
+DRC01,5.92,Regular,0.019184026,Soft Drinks,50.3692,OUT013,1987,High,Tier 3,Supermarket Type1,591.2304
+DRC01,,Regular,0.019107027,Soft Drinks,48.4692,OUT027,1985,Medium,Tier 3,Supermarket Type3,1034.6532
+DRC12,17.85,Low Fat,0.038040837,Soft Drinks,189.1188,OUT017,2007,,Tier 2,Supermarket Type1,3237.1196
+DRC12,17.85,Low Fat,0.037826873,Soft Drinks,189.7188,OUT046,1997,Small,Tier 1,Supermarket Type1,2285.0256
+DRC12,17.85,Low Fat,0.03781972,Soft Drinks,191.6188,OUT035,2004,Small,Tier 2,Supermarket Type1,2475.4444
+DRC12,17.85,Low Fat,0.037885683,Soft Drinks,190.4188,OUT049,1999,Medium,Tier 1,Supermarket Type1,952.094
+DRC13,8.26,Regular,0.032435437,Soft Drinks,124.873,OUT035,2004,Small,Tier 2,Supermarket Type1,2956.152
+DRC13,8.26,Regular,0,Soft Drinks,122.573,OUT045,2002,,Tier 2,Supermarket Type1,739.038
 DRE60,9.395,Low Fat,0.159657596,Soft Drinks,224.972,OUT045,2002,,Tier 2,Supermarket Type1,7696.648
 DRE60,9.395,Low Fat,0.159582185,Soft Drinks,224.772,OUT049,1999,Medium,Tier 1,Supermarket Type1,7017.532
 DRE60,9.395,Low Fat,0.159201868,Soft Drinks,226.072,OUT013,1987,High,Tier 3,Supermarket Type1,3621.952
